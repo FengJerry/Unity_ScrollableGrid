@@ -1,0 +1,26 @@
+D:\NewScrollView\obj\Debug\UnityVS.NewScrollView.CSharp.csprojResolveAssemblyReference.cache
+D:\NewScrollView\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+D:\NewScrollView\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\NewScrollView\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\NewScrollView\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\NewScrollView\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\NewScrollView\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+D:\NewScrollView\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\NewScrollView\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\NewScrollView\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+D:\NewScrollView\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+D:\NewScrollView\obj\Debug\Assembly-CSharp.dll
+D:\NewScrollView\obj\Debug\Assembly-CSharp.pdb
+D:\Unity Project\NewScrollView\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+D:\Unity Project\NewScrollView\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\Unity Project\NewScrollView\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\Unity Project\NewScrollView\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\Unity Project\NewScrollView\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\Unity Project\NewScrollView\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+D:\Unity Project\NewScrollView\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\Unity Project\NewScrollView\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\Unity Project\NewScrollView\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+D:\Unity Project\NewScrollView\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+D:\Unity Project\NewScrollView\obj\Debug\UnityVS.NewScrollView.CSharp.csprojResolveAssemblyReference.cache
+D:\Unity Project\NewScrollView\obj\Debug\Assembly-CSharp.dll
+D:\Unity Project\NewScrollView\obj\Debug\Assembly-CSharp.pdb
